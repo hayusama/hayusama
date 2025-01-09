@@ -8,12 +8,6 @@ Bienvenue sur mon profil GitHub. Voici un peu plus à propos de moi :
 
 ---
 
-## 🌟 Statistiques GitHub
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-[Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hayusama&show_icons=true&theme=radical)
-</div>
----
-
 ## 🚀 Technologies et outils
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -32,4 +26,13 @@ Bienvenue sur mon profil GitHub. Voici un peu plus à propos de moi :
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 
 </div>
+
+---
+
+## 🌟 Statistiques GitHub
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hayusama&show_icons=true&theme=radical)
+</div>
+
+---
 
