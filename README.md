@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub Personnel. Voici un peu plus à propos de moi :
 
 - 🔭 **Dev et formateur Web** En public il n'y a que les cours / exos ou anciens projets
 - 💬 **Contactez-moi :** Un besoin , retrouvez moi sur [Pixel Online Création](https://www.pixel-online.fr)
-- ⚡ **Fun fact :** J'adore le chocolat 🍫 et le code 💻...
+- ⚡ **Fun fact :** J'adore le chocolat 🍫 et le code 💻.
 
 ---
 
